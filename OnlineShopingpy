@@ -13,5 +13,5 @@ if Total_bill>=5000:
 else :
     print("Product Name:", Product_Name)
     print("Final_bill:",Total_bill)
-
+print("THNAK YOU FOR SHOPPING!")
 
